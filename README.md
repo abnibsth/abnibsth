@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Guys I'm Abni Basit Munawar  👋
 
 <!--
 **abnibsth/abnibsth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🤖 I’m currently learning **Laravel Framework And React Js**
+
+
+![hello word ](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWo5d2pjc2E2dTY2ejRiZXRwbDZqbTR4dm9meDExOG4yamN2bWhxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
