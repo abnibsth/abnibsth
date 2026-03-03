@@ -80,13 +80,56 @@ hobbies:  Coding · Watching Anime · Exploring Tech
 
 ---
 
-## 📫 Connect with Me
+## � Contribution Activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abnibsth)
+[![Abni's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abnibsth&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+
+| Stat | Info |
+|---|---|
+| 🗓️ Grafik di atas | Menampilkan riwayat commit & kontribusi kamu selama **1 tahun terakhir** |
+| 🟩 Kotak hijau | Setiap kotak = hari kamu aktif berkontribusi |
+| 📅 Sumbu X | Bulan dalam setahun |
+| 🔢 Sumbu Y | Jumlah kontribusi per hari |
+
+</div>
+
+---
+
+## 📊 Profile Summary
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abnibsth&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<br/>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abnibsth&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+&nbsp;&nbsp;
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abnibsth&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<br/>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abnibsth&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+&nbsp;&nbsp;
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abnibsth&theme=tokyonight&utcOffset=7)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+---
+
+## �📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abni-basit-munawar-47210a286/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abnibsth)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abni4250@gmail.com)
 
 </div>
 
