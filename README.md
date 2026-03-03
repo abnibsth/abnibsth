@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Abni Basit Munawar 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Laravel+%26+React.js+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abni+Basit+Munawar+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,7 +18,7 @@ name:     Abni Basit Munawar
 location: Indonesia 🇮🇩
 role:     Full Stack Web Developer (Learning)
 focus:    Laravel · React.js · PHP · JavaScript
-hobbies:  Coding · Watching Anime · Exploring Tech
+hobbies:  Coding · Gaming · Exploring Tech
 ```
 
 - 🔭 Currently working on **personal web projects**
@@ -101,27 +99,7 @@ hobbies:  Coding · Watching Anime · Exploring Tech
 
 ---
 
-## 📊 Profile Summary
 
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abnibsth&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<br/>
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abnibsth&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-&nbsp;&nbsp;
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abnibsth&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<br/>
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abnibsth&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-&nbsp;&nbsp;
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abnibsth&theme=tokyonight&utcOffset=7)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
-
----
 
 ## �📫 Connect with Me
 
