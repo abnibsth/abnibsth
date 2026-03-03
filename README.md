@@ -86,16 +86,6 @@ hobbies:  Coding · Gaming · Exploring Tech
 
 </div>
 
-<div align="center">
-
-| Stat | Info |
-|---|---|
-| 🗓️ Grafik di atas | Menampilkan riwayat commit & kontribusi kamu selama **1 tahun terakhir** |
-| 🟩 Kotak hijau | Setiap kotak = hari kamu aktif berkontribusi |
-| 📅 Sumbu X | Bulan dalam setahun |
-| 🔢 Sumbu Y | Jumlah kontribusi per hari |
-
-</div>
 
 ---
 
