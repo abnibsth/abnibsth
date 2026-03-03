@@ -56,9 +56,9 @@ hobbies:  Coding · Gaming · Exploring Tech
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abnibsth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=abnibsth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnibsth&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnibsth&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
 
 <br/><br/>
 
@@ -72,7 +72,7 @@ hobbies:  Coding · Gaming · Exploring Tech
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abnibsth&theme=tokyonight&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abnibsth&theme=tokyonight&no-frame=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
