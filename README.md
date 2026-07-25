@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abni+Basit+Munawar+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hi%2C+I'm+Abni+Basit+Munawar+%F0%9F%91%8B;Full+Stack+Web+Developer+in+Progress)](https://git.io/typing-svg)
 
 <br/>
 
@@ -11,31 +11,40 @@
 
 ---
 
-## �‍♂️ About Me
+## 👨‍💻 About Me
 
 ```yaml
 name:     Abni Basit Munawar
 location: Indonesia 🇮🇩
-role:     Full Stack Web Developer (Learning)
+role:     Full Stack Web Developer
 focus:    Laravel · React.js · PHP · JavaScript
-hobbies:  Coding · Gaming · Exploring Tech
+hobbies:  Coding · Gaming · Anime · Exploring Tech
 ```
 
-- 🔭 Currently working on **personal web projects**
-- 🌱 Deepening my skills in **Laravel** & **React.js**
-- 👯 Open to collaborate on **web development** projects
-- 💬 Ask me about **PHP**, **JavaScript**, or **web development**
-- ⚡ Fun fact: I love coding just as much as I love a good anime arc!
+Saya developer yang suka membangun web app yang rapi, cepat, dan enak dipakai.  
+Fokus utamanya **Laravel** di backend dan **React.js** di frontend — sambil terus ngasah skill biar makin solid di full stack.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 What I Do
+
+| 🎯 Area | 📝 Detail |
+|:---|:---|
+| **Backend** | API, auth, routing, dan logika bisnis dengan **Laravel / PHP** |
+| **Frontend** | UI interaktif & komponen reusable dengan **React.js**, HTML, CSS |
+| **Database** | Desain query & relasi data di **MySQL** |
+| **Workflow** | Git, GitHub, Postman, dan tooling modern untuk development |
+
+---
+
+## 🛠️ Tech Stack & Skills
 
 ### 💻 Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🚀 Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -49,6 +58,17 @@ hobbies:  Coding · Gaming · Exploring Tech
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 📈 Skills Snapshot
+
+```text
+Backend     ████████████░░░░░░░░  Laravel · PHP · REST API
+Frontend    ███████████░░░░░░░░░  React.js · HTML · CSS · Tailwind
+Database    ██████████░░░░░░░░░░  MySQL · Query & Relations
+Tools       █████████████░░░░░░░  Git · GitHub · Postman · VS Code
+Soft Skills ██████████████░░░░░░  Problem solving · Fast learning
+```
 
 ---
 
@@ -56,9 +76,9 @@ hobbies:  Coding · Gaming · Exploring Tech
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abnibsth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=abnibsth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnibsth&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnibsth&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="Top Languages" />
 
 <br/><br/>
 
@@ -68,7 +88,7 @@ hobbies:  Coding · Gaming · Exploring Tech
 
 ---
 
-## � GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -78,7 +98,7 @@ hobbies:  Coding · Gaming · Exploring Tech
 
 ---
 
-## � Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -86,12 +106,9 @@ hobbies:  Coding · Gaming · Exploring Tech
 
 </div>
 
-
 ---
 
-
-
-## �📫 Connect with Me
+## 📫 Connect with Me
 
 <div align="center">
 
