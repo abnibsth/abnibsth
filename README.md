@@ -98,24 +98,6 @@ Fokus utamanya **Laravel** di backend dan **React.js** di frontend — sambil te
 
 ---
 
-## 🎨 Skill Proficiency
-
-<div align="center">
-
-| Skill | Proficiency |
-|:---:|:---:|
-| **Laravel** | ████████████░░░░ 85% |
-| **PHP** | ███████████░░░░░ 80% |
-| **React.js** | ██████████░░░░░░ 75% |
-| **JavaScript** | ███████████░░░░░ 80% |
-| **HTML/CSS** | █████████████░░░ 90% |
-| **Tailwind CSS** | ███████████░░░░░ 80% |
-| **MySQL** | ██████████░░░░░░ 75% |
-| **Git/GitHub** | ████████████░░░░ 85% |
-
-</div>
-
----
 
 ## 💡 Currently Learning
 
@@ -165,23 +147,6 @@ Fokus utamanya **Laravel** di backend dan **React.js** di frontend — sambil te
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br/>
-
-### 🎮 Currently Playing
-
-![Currently Playing](https://img.shields.io/badge/Currently%20Playing-Genshin%20Impact%20%7C%20Valorant-6E57F7?style=for-the-badge&logo=steam&logoColor=white)
-
-<br/>
-
-### ☕ Support Me
-
-<a href="https://saweria.co/abnibsth" target="_blank">
-  <img src="https://img.shields.io/badge/Saweria-FF6B6B?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Saweria" />
-</a>
-<a href="https://github.com/sponsors/abnibsth" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
-</a>
-
-</div>
 
 ---
 
