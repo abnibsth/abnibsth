@@ -43,7 +43,7 @@ Fokus utamanya **Laravel** di backend dan **React.js** di frontend — sambil te
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,react,vite,nodejs,npm,nextjs,tailwind,bootstrap,mysql,postgres,sqlite,firebase,supabase,netlify,express,git,github,postman,figma,canva,vscode,powershell&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,react,vite,nodejs,npm,nextjs,tailwind,bootstrap,mysql,postgres,sqlite,firebase,supabase,netlify,express,git,github,postman,figma,canva,vscode,powershell,cloudflare&perline=8" alt="Tech Stack" />
   </a>
 </p>
 
@@ -88,31 +88,11 @@ Fokus utamanya **Laravel** di backend dan **React.js** di frontend — sambil te
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abnibsth&theme=tokyonight&no-frame=true&margin-w=8&column=7&rank=SSS,SS,S,AAA,AA,A,B,B,B" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abnibsth&theme=tokyo-night&hide_border=true&area=true&color=6E57F7&line=6E57F7&point=FFFFFF&bg_color=1a1b27" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🐍 Snake Animation (Contributions)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abnibsth/abnibsth/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 </div>
 
