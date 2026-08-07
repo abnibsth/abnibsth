@@ -82,8 +82,8 @@ Sehari-hari main di **Laravel** (backend), **React** (frontend), dan **Flutter**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abnibsth&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&ring_color=FFFFFF" height="160" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnibsth&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" height="160" alt="Top Languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abnibsth&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&ring_color=FFFFFF" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abnibsth&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" height="160" alt="Top Languages" />
 
 <br/>
 
