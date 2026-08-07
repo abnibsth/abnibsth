@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1200&color=A3A3A3&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Abni+Basit+Munawar;Full+Stack+Web+Developer;Laravel+%2F+React+%2F+PHP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1200&color=A3A3A3&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Abni+Basit+Munawar;Full+Stack+Developer;Laravel+%2F+React+%2F+Flutter)](https://git.io/typing-svg)
 
 <br/>
 
@@ -13,8 +13,8 @@
 
 ### About
 
-Saya Abni, developer dari Indonesia yang fokus membangun web app yang **rapi, cepat, dan enak dipakai**.  
-Sehari-hari main di **Laravel** (backend) dan **React** (frontend) — sambil terus belajar biar makin solid di full stack.
+Saya Abni, developer dari Indonesia yang fokus membangun web app & mobile app yang **rapi, cepat, dan enak dipakai**.  
+Sehari-hari main di **Laravel** (backend), **React** (frontend), dan **Flutter** (mobile) — sambil terus belajar biar makin solid di full stack.
 
 ```text
 📍 Indonesia      💼 Full Stack Web Dev       🎮 Gaming · Anime · Exploring Tech
@@ -29,6 +29,8 @@ Sehari-hari main di **Laravel** (backend) dan **React** (frontend) — sambil te
 <img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Flutter-161B22?style=flat-square&logo=flutter" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-161B22?style=flat-square&logo=dart" alt="Dart" />
 <img src="https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php" alt="PHP" />
 <img src="https://img.shields.io/badge/Laravel-161B22?style=flat-square&logo=laravel" alt="Laravel" />
 <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react" alt="React" />
@@ -61,7 +63,7 @@ Sehari-hari main di **Laravel** (backend) dan **React** (frontend) — sambil te
 
 </div>
 
-<sub>Tidak termasuk: C, C++, Adobe (semua), Arduino</sub>
+
 
 ---
 
