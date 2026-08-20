@@ -1,14 +1,26 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1200&color=A3A3A3&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Abni+Basit+Munawar;Full+Stack+Developer;Laravel+%2F+React+%2F+Flutter)](https://git.io/typing-svg)
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=abnibsth&color=2F81F7&style=flat-square&label=views)](https://github.com/abnibsth)
-[![GitHub followers](https://img.shields.io/github/followers/abnibsth?label=followers&style=flat-square&color=2F81F7)](https://github.com/abnibsth)
-
-</div>
-
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bgGrad)"/>
+  <!-- Rounded banner box with shadow effect via stroke -->
+  <rect x="50" y="30" width="700" height="160" rx="20" fill="#1e2937" stroke="#334155" stroke-width="4"/>
+  <!-- Name -->
+  <text x="100" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="700" fill="#e2e8f0">Abni Basit Munawar</text>
+  <!-- Title matching skills -->
+  <text x="100" y="145" font-family="'Segoe UI', Arial, sans-serif" font-size="22" fill="#94a3b8">Full Stack Developer · Laravel / React / Flutter</text>
+  <!-- Decorative dots matching the image style -->
+  <circle cx="100" cy="185" r="6" fill="#60a5fa"/>
+  <circle cx="120" cy="185" r="6" fill="#60a5fa"/>
+  <circle cx="140" cy="185" r="6" fill="#60a5fa"/>
+  <circle cx="160" cy="185" r="6" fill="#60a5fa"/>
+  <!-- Bottom accent line -->
+  <line x1="50" y1="195" x2="750" y2="195" stroke="#334155" stroke-width="2"/>
+</svg>
 ---
 
 ### About
