@@ -110,17 +110,10 @@ Sehari-hari main di **Laravel** (backend), **React** (frontend), dan **Flutter**
 <div align="center">
 
 <a href="https://github.com/abnibsth">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abnibsth&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
-</a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/abnibsth">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abnibsth&theme=zenburn" height="180" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abnibsth&theme=2077" height="190" alt="Profile Details" />
 </a>
 <a href="https://github.com/abnibsth">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abnibsth&theme=zenburn" height="180" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abnibsth&theme=2077" height="190" alt="GitHub Stats" />
 </a>
 
 </div>
