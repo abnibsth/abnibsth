@@ -94,16 +94,7 @@ Sehari-hari main di **Laravel** (backend), **React** (frontend), dan **Flutter**
 
 ---
 
-### What I Build
 
-| Area | Detail |
-|:---|:---|
-| **Backend** | API, auth, routing, logika bisnis — **Laravel / PHP** |
-| **Frontend** | UI interaktif & komponen reusable — **React**, HTML, CSS |
-| **Database** | Desain query & relasi data — **MySQL / PostgreSQL** |
-| **Workflow** | Git, GitHub, Postman, tooling modern |
-
----
 
 ### GitHub Statistics
 
@@ -111,14 +102,14 @@ Sehari-hari main di **Laravel** (backend), **React** (frontend), dan **Flutter**
 
 <table border="0">
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="middle">
       <a href="https://github.com/abnibsth">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abnibsth&theme=github_dark" width="380" alt="Profile Details" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abnibsth&theme=github_dark" height="190" alt="Profile Details" />
       </a>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="middle">
       <a href="https://github.com/abnibsth">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abnibsth&theme=github_dark" width="380" alt="GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abnibsth&theme=github_dark" height="190" alt="GitHub Stats" />
       </a>
     </td>
   </tr>
