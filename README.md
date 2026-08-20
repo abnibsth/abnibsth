@@ -109,13 +109,13 @@ Sehari-hari main di **Laravel** (backend), **React** (frontend), dan **Flutter**
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abnibsth&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abnibsth&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=abnibsth&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&bg_color=050505&title_color=FFFFFF&icon_color=FFFFFF&text_color=A1A1AA" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnibsth&layout=compact&hide_border=true&langs_count=8&theme=dark&bg_color=050505&title_color=FFFFFF&text_color=A1A1AA" height="165" alt="Top Languages" />
 
 <br/>
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=abnibsth&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=a1a1aa" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=abnibsth&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
