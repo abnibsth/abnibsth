@@ -1,26 +1,29 @@
-<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#1e3a8a"/>
-    </linearGradient>
-  </defs>
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="url(#bgGrad)"/>
-  <!-- Rounded banner box with shadow effect via stroke -->
-  <rect x="50" y="30" width="700" height="160" rx="20" fill="#1e2937" stroke="#334155" stroke-width="4"/>
-  <!-- Name -->
-  <text x="100" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="700" fill="#e2e8f0">Abni Basit Munawar</text>
-  <!-- Title matching skills -->
-  <text x="100" y="145" font-family="'Segoe UI', Arial, sans-serif" font-size="22" fill="#94a3b8">Full Stack Developer · Laravel / React / Flutter</text>
-  <!-- Decorative dots matching the image style -->
-  <circle cx="100" cy="185" r="6" fill="#60a5fa"/>
-  <circle cx="120" cy="185" r="6" fill="#60a5fa"/>
-  <circle cx="140" cy="185" r="6" fill="#60a5fa"/>
-  <circle cx="160" cy="185" r="6" fill="#60a5fa"/>
-  <!-- Bottom accent line -->
-  <line x1="50" y1="195" x2="750" y2="195" stroke="#334155" stroke-width="2"/>
-</svg>
+<div align="center">
+
+<!-- Header Banner -->
+<img src="./header.svg" width="100%" alt="Abni Basit Munawar Banner" />
+
+<br/>
+<br/>
+
+<!-- Subtitle Role Pills -->
+☕ **Full Stack Developer** &nbsp;|&nbsp; 🎨 **UI/UX** &nbsp;|&nbsp; 🚀 **SaaS Builder** &nbsp;|&nbsp; 📱 **Mobile Dev (Flutter)**
+
+<br/>
+
+<!-- Connect Badges -->
+<a href="https://www.linkedin.com/in/abni-basit-munawar-47210a286/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/abnibsth"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:abni4250@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://discord.com/users/abnibsth"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=abnibsth&color=FFFFFF&style=flat-square&label=views)](https://github.com/abnibsth)
+[![GitHub followers](https://img.shields.io/github/followers/abnibsth?label=followers&style=flat-square&color=FFFFFF)](https://github.com/abnibsth)
+
+</div>
+
 ---
 
 ### About
@@ -31,6 +34,20 @@ Sehari-hari main di **Laravel** (backend), **React** (frontend), dan **Flutter**
 ```text
 📍 Indonesia      💼 Full Stack Web Dev       🎮 Gaming · Anime · Exploring Tech
 ```
+
+---
+
+### 👾 Contribution Game Animation
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abnibsth/abnibsth/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abnibsth/abnibsth/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abnibsth/abnibsth/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
 
 ---
 
@@ -75,8 +92,6 @@ Sehari-hari main di **Laravel** (backend), **React** (frontend), dan **Flutter**
 
 </div>
 
-
-
 ---
 
 ### What I Build
@@ -94,12 +109,13 @@ Sehari-hari main di **Laravel** (backend), **React** (frontend), dan **Flutter**
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abnibsth&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&ring_color=FFFFFF" height="160" alt="GitHub Stats" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abnibsth&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" height="160" alt="Top Languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abnibsth&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abnibsth&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" height="165" alt="Top Languages" />
 
 <br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=abnibsth&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=abnibsth&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=a1a1aa" alt="GitHub Streak" />
 
 </div>
 

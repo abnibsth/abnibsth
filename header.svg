@@ -1,0 +1,97 @@
+<svg width="850" height="260" viewBox="0 0 850 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient: Ultra Dark Black Monochrome -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="50%" stop-color="#0d0d0e"/>
+      <stop offset="100%" stop-color="#141416"/>
+    </linearGradient>
+
+    <!-- Accent Pill Gradient: Pure White to Light Metallic Gray -->
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#a1a1aa"/>
+    </linearGradient>
+
+    <!-- Glass Card Gradient: Translucent Dark/White -->
+    <linearGradient id="glassGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+
+    <!-- White Glowing Orbs -->
+    <radialGradient id="glowWhite1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowWhite2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e4e4e7" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#e4e4e7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="logoGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Drop Shadow Filter -->
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="10" stdDeviation="20" flood-color="#000000" flood-opacity="0.8"/>
+    </filter>
+  </defs>
+
+  <!-- Outer Canvas Background -->
+  <rect width="850" height="260" rx="20" fill="url(#bgGradient)"/>
+
+  <!-- Glowing Background Decorative Elements -->
+  <circle cx="680" cy="130" r="140" fill="url(#logoGlow)"/>
+  <circle cx="750" cy="180" r="140" fill="url(#glowWhite2)"/>
+  <circle cx="150" cy="220" r="120" fill="url(#glowWhite1)"/>
+
+  <!-- Main Glassmorphism Card -->
+  <rect x="40" y="30" width="770" height="200" rx="24" fill="url(#glassGrad)" stroke="rgba(255, 255, 255, 0.18)" stroke-width="1.5" filter="url(#shadow)"/>
+
+  <!-- GitHub Logo Graphic Element on the Right Side -->
+  <g transform="translate(620, 65)">
+    <!-- Outer Glow Circle Behind GitHub Logo -->
+    <circle cx="60" cy="65" r="75" fill="rgba(255, 255, 255, 0.03)" stroke="rgba(255, 255, 255, 0.1)" stroke-width="1.5"/>
+    <circle cx="60" cy="65" r="58" fill="rgba(255, 255, 255, 0.05)" stroke="rgba(255, 255, 255, 0.15)" stroke-width="1"/>
+    
+    <!-- Large Stylized GitHub Octocat Icon -->
+    <path transform="translate(10, 15) scale(4.2)" d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z" fill="#ffffff" opacity="0.9"/>
+  </g>
+
+  <!-- Top Accent Bar -->
+  <rect x="75" y="55" width="90" height="6" rx="3" fill="url(#accentGrad)"/>
+
+  <!-- User Name -->
+  <text x="75" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="36" font-weight="800" fill="#ffffff" letter-spacing="-0.5">Abni Basit Munawar</text>
+
+  <!-- Title / Tagline -->
+  <text x="75" y="145" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="500" fill="#a1a1aa">Software Engineer · Full Stack Developer · UI/UX</text>
+
+  <!-- Skill Badges Inside Banner Card -->
+  <!-- 1. Laravel Badge -->
+  <g transform="translate(75, 168)">
+    <rect width="80" height="34" rx="17" fill="rgba(255, 255, 255, 0.06)" stroke="rgba(255, 255, 255, 0.2)" stroke-width="1"/>
+    <path d="M 22 13 L 30 18 L 30 25 L 22 21 Z M 16 18 L 22 13 L 22 21 L 16 25 Z" fill="#ffffff"/>
+    <text x="36" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#ffffff">Laravel</text>
+  </g>
+
+  <!-- 2. React Badge -->
+  <g transform="translate(165, 168)">
+    <rect width="75" height="34" rx="17" fill="rgba(255, 255, 255, 0.06)" stroke="rgba(255, 255, 255, 0.2)" stroke-width="1"/>
+    <ellipse cx="25" cy="17" rx="7" ry="2.5" fill="none" stroke="#ffffff" stroke-width="1.2" transform="rotate(30 25 17)"/>
+    <ellipse cx="25" cy="17" rx="7" ry="2.5" fill="none" stroke="#ffffff" stroke-width="1.2" transform="rotate(90 25 17)"/>
+    <ellipse cx="25" cy="17" rx="7" ry="2.5" fill="none" stroke="#ffffff" stroke-width="1.2" transform="rotate(150 25 17)"/>
+    <circle cx="25" cy="17" r="1.5" fill="#ffffff"/>
+    <text x="37" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#ffffff">React</text>
+  </g>
+
+  <!-- 3. Flutter Badge -->
+  <g transform="translate(250, 168)">
+    <rect width="80" height="34" rx="17" fill="rgba(255, 255, 255, 0.06)" stroke="rgba(255, 255, 255, 0.2)" stroke-width="1"/>
+    <path d="M 27 10 L 19 18 L 22 21 L 30 13 Z M 22 21 L 19 24 L 27 32 L 30 29 Z" fill="#ffffff"/>
+    <path d="M 22 21 L 25 18 L 28 21 L 25 24 Z" fill="#e4e4e7"/>
+    <text x="36" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#ffffff">Flutter</text>
+  </g>
+</svg>
