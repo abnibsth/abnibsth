@@ -32,7 +32,7 @@ Saya Abni, developer dari Indonesia yang fokus membangun web app & mobile app ya
 Sehari-hari main di **Laravel** (backend), **React** (frontend), dan **Flutter** (mobile) — sambil terus belajar biar makin solid di full stack.
 
 ```text
-📍 Indonesia      💼 Full Stack Web Dev       🎮 Gaming · Anime · Exploring Tech
+📍 Indonesia      💼 Full Stack Web Dev       🎮 Gaming · sport · Exploring Tech
 ```
 
 ---
@@ -109,12 +109,20 @@ Sehari-hari main di **Laravel** (backend), **React** (frontend), dan **Flutter**
 
 <div align="center">
 
-<a href="https://github.com/abnibsth">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abnibsth&theme=2077" height="190" alt="Profile Details" />
-</a>
-<a href="https://github.com/abnibsth">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abnibsth&theme=2077" height="190" alt="GitHub Stats" />
-</a>
+<table border="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/abnibsth">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abnibsth&theme=github_dark" width="380" alt="Profile Details" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/abnibsth">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abnibsth&theme=github_dark" width="380" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
