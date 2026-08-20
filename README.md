@@ -110,17 +110,17 @@ Sehari-hari main di **Laravel** (backend), **React** (frontend), dan **Flutter**
 <div align="center">
 
 <a href="https://github.com/abnibsth">
-  <img src="https://streak-stats.demolab.com?user=abnibsth&theme=dark&hide_border=true&border_radius=8" height="175" alt="GitHub Streak" />
-</a>
-<a href="https://github.com/abnibsth">
-  <img src="https://github-readme-stats.vercel.app/api?username=abnibsth&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&border_radius=8" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abnibsth&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 </a>
 
 <br/>
 <br/>
 
 <a href="https://github.com/abnibsth">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnibsth&layout=compact&hide_border=true&langs_count=8&theme=dark&border_radius=8" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abnibsth&theme=zenburn" height="180" alt="Profile Details" />
+</a>
+<a href="https://github.com/abnibsth">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abnibsth&theme=zenburn" height="180" alt="GitHub Stats" />
 </a>
 
 </div>
