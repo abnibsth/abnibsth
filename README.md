@@ -19,8 +19,8 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abnibsth&color=FFFFFF&style=flat-square&label=views)](https://github.com/abnibsth)
-[![GitHub followers](https://img.shields.io/github/followers/abnibsth?label=followers&style=flat-square&color=FFFFFF)](https://github.com/abnibsth)
+[![Profile Views](https://komarev.com/ghpvc/?username=abnibsth&color=0969da&style=flat-square&label=views)](https://github.com/abnibsth)
+[![GitHub followers](https://img.shields.io/github/followers/abnibsth?label=followers&style=flat-square&color=0969da&labelColor=161b22)](https://github.com/abnibsth)
 
 </div>
 
