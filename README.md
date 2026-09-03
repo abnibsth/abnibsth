@@ -7,7 +7,7 @@
 <br/>
 
 <!-- Subtitle Role Pills -->
-☕ **Full Stack Developer** &nbsp;|&nbsp; 🎨 **UI/UX** &nbsp;|&nbsp; 🚀 **SaaS Builder** &nbsp;|&nbsp; 📱 **Mobile Dev (Flutter)**
+☕ **Full Stack Developer** &nbsp;|&nbsp; 🎨 **UI/UX Enthusiast** &nbsp;|&nbsp; 🚀 **SaaS Builder** &nbsp;|&nbsp; 📱 **Mobile Developer (Flutter)**
 
 <br/>
 
@@ -26,18 +26,19 @@
 
 ---
 
-### About
+### About Me
 
-Saya Abni, developer dari Indonesia yang fokus membangun web app & mobile app yang **rapi, cepat, dan enak dipakai**.  
-Sehari-hari main di **Laravel** (backend), **React** (frontend), dan **Flutter** (mobile) — sambil terus belajar biar makin solid di full stack.
+I'm Abni, a software developer from Indonesia passionate about building web and mobile applications that are **clean, high-performance, and intuitive to use**.  
+
+My day-to-day stack centers around **Laravel** for robust backend architectures, **React & Next.js** for modern interactive interfaces, and **Flutter** for cross-platform mobile apps — always learning, exploring, and refining my full-stack engineering skills.
 
 ```text
-📍 Indonesia      💼 Full Stack Web Dev       🎮 Gaming · sport · Exploring Tech
+📍 Indonesia      💼 Full Stack Web & Mobile Dev       🎮 Gaming · Sports · Exploring Tech
 ```
 
 ---
 
-### 👾 Contribution Game Animation
+### 👾 Contribution Snake Animation
 
 <div align="center">
 
@@ -51,7 +52,7 @@ Sehari-hari main di **Laravel** (backend), **React** (frontend), dan **Flutter**
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
 
@@ -94,9 +95,7 @@ Sehari-hari main di **Laravel** (backend), **React** (frontend), dan **Flutter**
 
 ---
 
-
-
-### GitHub Statistics
+### 📊 GitHub Statistics
 
 <div align="center">
 
@@ -119,7 +118,7 @@ Sehari-hari main di **Laravel** (backend), **React** (frontend), dan **Flutter**
 
 ---
 
-### Currently Learning
+### 🌱 Currently Exploring & Learning
 
 <div align="center">
 
@@ -132,7 +131,7 @@ Sehari-hari main di **Laravel** (backend), **React** (frontend), dan **Flutter**
 
 ---
 
-### Connect
+### 🌐 Connect with Me
 
 <div align="center">
 
