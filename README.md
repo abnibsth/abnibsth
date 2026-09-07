@@ -38,20 +38,6 @@ My day-to-day stack centers around **Laravel** for robust backend architectures,
 
 ---
 
-### 👾 Contribution Snake Animation
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abnibsth/abnibsth/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abnibsth/abnibsth/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abnibsth/abnibsth/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
-
-</div>
-
----
-
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
@@ -140,6 +126,20 @@ My day-to-day stack centers around **Laravel** for robust backend architectures,
 <a href="mailto:abni4250@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail" alt="Email" /></a>
 <a href="https://discord.com/users/abnibsth"><img src="https://img.shields.io/badge/Discord-161B22?style=flat-square&logo=discord" alt="Discord" /></a>
 <a href="https://twitter.com/abnibsth"><img src="https://img.shields.io/badge/X-161B22?style=flat-square&logo=x" alt="X" /></a>
+
+</div>
+
+---
+
+### 👾 Contribution Snake Animation
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abnibsth/abnibsth/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abnibsth/abnibsth/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abnibsth/abnibsth/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 </div>
 
