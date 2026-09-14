@@ -88,14 +88,10 @@ My day-to-day stack centers around **Laravel** for robust backend architectures,
 <table border="0">
   <tr>
     <td align="center" valign="middle">
-      <a href="https://github.com/abnibsth">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abnibsth&theme=github_dark" height="190" alt="Profile Details" />
-      </a>
+      <img src="https://raw.githubusercontent.com/abnibsth/abnibsth/profile-summary-card-output/github_dark/0-profile-details.svg" height="190" alt="Profile Details" />
     </td>
     <td align="center" valign="middle">
-      <a href="https://github.com/abnibsth">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abnibsth&theme=github_dark" height="190" alt="GitHub Stats" />
-      </a>
+      <img src="https://raw.githubusercontent.com/abnibsth/abnibsth/profile-summary-card-output/github_dark/3-stats.svg" height="190" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
