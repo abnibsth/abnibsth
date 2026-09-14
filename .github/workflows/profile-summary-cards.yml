@@ -17,8 +17,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.12.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: profile-summary-card-output
+          THEME: github_dark
+          UTC_OFFSET: 7
