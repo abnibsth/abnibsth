@@ -36,6 +36,8 @@ My day-to-day stack centers around **Laravel** for robust backend architectures,
 📍 Indonesia      💼 Full Stack Web & Mobile Dev       🎮 Gaming · Sports · Exploring Tech
 ```
 
+
+
 ---
 
 ### 🛠️ Tech Stack & Skills
