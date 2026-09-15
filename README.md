@@ -90,10 +90,10 @@ My day-to-day stack centers around **Laravel** for robust backend architectures,
 <table border="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/abnibsth/abnibsth/profile-summary-card-output/github_dark/0-profile-details.svg" height="190" alt="Profile Details" />
+      <img src="https://raw.githubusercontent.com/abnibsth/abnibsth/main/profile-summary-card-output/github_dark/0-profile-details.svg" height="190" alt="Profile Details" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/abnibsth/abnibsth/profile-summary-card-output/github_dark/3-stats.svg" height="190" alt="GitHub Stats" />
+      <img src="https://raw.githubusercontent.com/abnibsth/abnibsth/main/profile-summary-card-output/github_dark/3-stats.svg" height="190" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
