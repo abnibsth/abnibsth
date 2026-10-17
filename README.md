@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="./header.svg" width="100%" alt="Abni Basit Munawar Banner" />
+<!-- Looping Header Banner -->
+<img src="./vid/AbniGBanner.gif" width="100%" alt="Abni Basit Munawar Banner" />
 
 <br/>
 <br/>
@@ -30,7 +30,7 @@
 
 I'm Abni, a software developer from Indonesia passionate about building web and mobile applications that are **clean, high-performance, and intuitive to use**.  
 
-My day-to-day stack centers around **Laravel** for robust backend architectures, **React & Next.js** for modern interactive interfaces, and **Flutter** for cross-platform mobile apps — always learning, exploring, and refining my full-stack engineering skills.
+My day-to-day stack centers around **Laravel** for robust backend architectures, **React & Next.js** for modern interactive interfaces, and **Flutter** for cross-platform mobile apps (always learning, exploring, and refining my full-stack engineering skills).
 
 ```text
 📍 Indonesia      💼 Full Stack Web & Mobile Dev       🎮 Gaming · Sports · Exploring Tech
@@ -102,19 +102,6 @@ My day-to-day stack centers around **Laravel** for robust backend architectures,
 
 ---
 
-### 🌱 Currently Exploring & Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker" alt="Docker" />
-<img src="https://img.shields.io/badge/Pest%20%2F%20PHPUnit-161B22?style=flat-square&logo=php" alt="Testing" />
-<img src="https://img.shields.io/badge/GitHub_Actions-161B22?style=flat-square&logo=githubactions" alt="CI/CD" />
-
-</div>
-
----
-
 ### 🌐 Connect with Me
 
 <div align="center">
@@ -145,7 +132,13 @@ My day-to-day stack centers around **Laravel** for robust backend architectures,
 
 <div align="center">
 
-<sub>"Code is like humor. When you have to explain it, it's bad." — Cory House</sub>
+<!-- Profile Card -->
+<img src="./header.svg" width="100%" alt="Abni Basit Munawar Card" />
+
+<br/>
+<br/>
+
+<sub>"Code is like humor. When you have to explain it, it's bad." : Cory House</sub>
 
 <br/>
 
