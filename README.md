@@ -16,12 +16,6 @@
 <a href="https://instagram.com/abnibsth"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:abni4250@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://discord.com/users/abnibsth"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=abnibsth&color=0969da&style=flat-square&label=views)](https://github.com/abnibsth)
-[![GitHub followers](https://img.shields.io/github/followers/abnibsth?label=followers&style=flat-square&color=0969da&labelColor=161b22)](https://github.com/abnibsth)
-
 </div>
 
 ---
